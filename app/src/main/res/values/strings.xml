@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">calculator BY ILYAS</string>
+    <string name="Titre">Smart Calculator</string>
+    <string name="div0">Division on 0 unacceptable!</string>
+    <string name="deb0">0 at first has no meaning</string>
+    <string name="debplus">+ at first has no meaning</string>
+    <string name="debMoins">- at first has no meaning</string>
+    <string name="debdev">/ at first has no meaning</string>
+    <string name="debMult">* at first has no meaning</string>
+    <string name="ErreurMessage">Error in expression</string>
+    <string name="comParOuvr">You can\'t start with )</string>
+    <string name="errParFerm">You must open the parentheses before closing it.</string>
+    <string name="errParPrec">) must be preceded by number!</string>
+    <string name="errParOuvrePrec">( must be preceded by an operator or another opening parenthesis</string>
+    <string name="commpoin">You can\'t start with .</string>
+    <string name="deuxPoints">There is no number that has two commas !</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">calculatrice Par ILYAS</string>
+    <string name="Titre">Calculatrice Intelligente</string>
+    <string name="div0">Division sur 0 inacceptable !</string>
+    <string name="deb0"> 0 au débit n\'a aucune signification</string>
+    <string name="debplus"> + au débit n\'a aucune synification</string>
+    <string name="debMoins"> - au débit n\'a aucune synification</string>
+    <string name="debdev"> / au débit n\'a aucune synification</string>
+    <string name="debMult">* au débit n\'a aucune synification</string>
+    <string name="ErreurMessage">Erreur dans expression</string>
+    <string name="comParOuvr">Tu peut pas commencer par )</string>
+    <string name="errParFerm">Tu doit ouvrire les parentheses avant de le fermer</string>
+    <string name="errParPrec">) doit etre preceder par nombre !</string>
+    <string name="errParOuvrePrec">( doit être précédée par un opérateur ou une autre parenthèse ouvrante</string>
+    <string name="commpoin">Tu peut pas commencer par .</string>
+    <string name="deuxPoints">Y a pas de nombre qu\'à deux virgules ! </string>
+</resources>

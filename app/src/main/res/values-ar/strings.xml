@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">آلة حاسبة إلياس</string>
+    <string name="Titre">حاسبة ذكية</string>
+    <string name="div0">القسمة على 0 غير ممكنة!</string>
+    <string name="deb0">0 في البداية ليس له معنى</string>
+    <string name="debplus"> + في البداية ليس له معنى</string>
+    <string name="debMoins">- في البداية ليس له معنى</string>
+    <string name="debdev">/ في البداية ليس له معنى</string>
+    <string name="debMult">* في البداية ليس له معنى</string>
+    <string name="ErreurMessage">خطأ في العبارة</string>
+    <string name="comParOuvr">لا يمكنك البدء بـ )</string>
+    <string name="errParFerm">يجب عليك فتح الأقواس قبل إغلاقها.</string>
+    <string name="errParPrec">) يجب أن يسبقه رقم!</string>
+    <string name="errParOuvrePrec">( يجب أن يسبقه عملية أو قوس فتح آخر</string>
+    <string name="commpoin">لا يمكنك البدء بـ.</string>
+    <string name="deuxPoints">لا توجد أرقام بفاصلتين!</string>
+</resources>
